@@ -26,25 +26,27 @@ export default function Contact()
                     <input type='text' id='lname' name='subject' placeholder='Subject...' onChange={(e) => setSubject(e.target.value)} value={subject}></input>
                     <textarea id="subject" name="body" placeholder="Your message..." onChange={(e) => setBody(e.target.value)} value={body}></textarea>
                 </form>
-                <a className="button" href={ref} onClick={()=>{setName(''); setSubject(''); setBody('')}}>Send</a>
+                <div className="pos">
+                    <a className="button" href={ref} onClick={()=>{setName(''); setSubject(''); setBody('')}}>Send</a>
+                </div>
             </div>
             <div className="links">
                 <div className='socials'>
                     <a target="_blank" href='https://www.linkedin.com/in/jaden-sun-399552205/'
                         className='linkedin'>
-                        <FontAwesomeIcon icon={faLinkedin} size="2x"/>
+                        <FontAwesomeIcon icon={faLinkedin} size="3x"/>
                     </a> 
                     <a target="_blank" href='https://www.instagram.com/sunnyeatsfoods/'
                         className='instagram'>
-                        <FontAwesomeIcon icon={faInstagram} size="2x"/>
+                        <FontAwesomeIcon icon={faInstagram} size="3x"/>
                     </a>
                     <a target="_blank" href='https://github.com/jadensun537'
                         className='github'>
-                        <FontAwesomeIcon icon={faGithub} size='2x'/>
+                        <FontAwesomeIcon icon={faGithub} size='3x'/>
                     </a>
                     <a target="_blank" href={resume}
                         className='resume'>
-                        <FontAwesomeIcon icon={faFile} size='2x'/>
+                        <FontAwesomeIcon icon={faFile} size='3x'/>
                     </a>
                 </div>
             </div>
