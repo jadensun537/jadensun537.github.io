@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.41135178.css",
-    "main.js": "/static/js/main.50a6af42.js",
+    "main.css": "/static/css/main.78f28c79.css",
+    "main.js": "/static/js/main.4b1a0ca5.js",
     "static/js/787.3ba5e41c.chunk.js": "/static/js/787.3ba5e41c.chunk.js",
     "static/media/pfp-removebg-preview.png": "/static/media/pfp-removebg-preview.cdff85a0fcf5029b34b7.png",
     "static/media/Resume.pdf": "/static/media/Resume.c4f95bb74847f1d8c6f4.pdf",
+    "static/media/mag_glass.png": "/static/media/mag_glass.5f8cba8d26f506f4ebe8.png",
+    "static/media/zoo.png": "/static/media/zoo.b405ff182b2fc04cd0a5.png",
+    "static/media/solar.png": "/static/media/solar.463a29b5c7bffe3ef7f5.png",
     "static/media/Capital-One-Logo.png": "/static/media/Capital-One-Logo.9f957785110bec1b35f8.png",
+    "static/media/OSTC.png": "/static/media/OSTC.4bbb54ed545dd001a859.png",
+    "static/media/U-M_Logo-Hex.png": "/static/media/U-M_Logo-Hex.7b013ef929d56a02cc7c.png",
+    "static/media/Jaden.png": "/static/media/Jaden.3126226cd45523f28aac.png",
     "index.html": "/index.html",
-    "main.41135178.css.map": "/static/css/main.41135178.css.map",
-    "main.50a6af42.js.map": "/static/js/main.50a6af42.js.map",
+    "main.78f28c79.css.map": "/static/css/main.78f28c79.css.map",
+    "main.4b1a0ca5.js.map": "/static/js/main.4b1a0ca5.js.map",
     "787.3ba5e41c.chunk.js.map": "/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41135178.css",
-    "static/js/main.50a6af42.js"
+    "static/css/main.78f28c79.css",
+    "static/js/main.4b1a0ca5.js"
   ]
 }
